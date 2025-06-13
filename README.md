@@ -39,7 +39,6 @@
 📫 **Let's Connect**
 
 - [LinkedIn](https://www.linkedin.com/in/avinashjen)  
-- [Tableau Public](https://public.tableau.com/app/profile/yourname)
 - [kaggle](https://www.kaggle.com/avinashjen)
 
 
