@@ -31,7 +31,7 @@
 | 📈 IPL Data Analysis | EDA on IPL dataset to find winning strategies | Python, Matplotlib |
 | 🧠 ML Basics | Built a regression model to predict housing prices | Scikit-learn |
 
-> 🔗 View all projects here: [My Projects Repo](#)  
+> 🔗 View all projects here: My Projects Repo 
 > 🔗 Certification Portfolio: [View on Drive](#)
 
 ---
@@ -40,20 +40,3 @@
 
 - [LinkedIn](https://www.linkedin.com/in/avinashjen)  
 - [kaggle](https://www.kaggle.com/avinashjen)
-
-
-
-<!--
-**Avinashjen/Avinashjen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
