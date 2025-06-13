@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Avinash </h1>
 <h3 align="center">Aspiring Data Analyst | SQL • Python • Tableau • Excel | Learning by Doing</h3>
 
 ---
@@ -38,7 +38,7 @@
 
 📫 **Let's Connect**
 
-- [LinkedIn](https://linkedin.com/in/your-profile)  
+- [LinkedIn](https://www.linkedin.com/in/avinashjen)  
 - [Email](mailto:yourname@email.com)  
 - [Tableau Public](https://public.tableau.com/app/profile/yourname)
 
