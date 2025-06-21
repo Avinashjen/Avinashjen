@@ -3,7 +3,6 @@
 ### *Aspiring Data Analyst | BCA Graduate | Certified by AlmaBetter*
 
 Mumbai, India  
-📫 your.email@example.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/avinashjen) | [Portfolio](https://your-portfolio.com)
 
 ---
