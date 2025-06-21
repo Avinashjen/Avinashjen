@@ -1,10 +1,7 @@
 # Avinash Jena
 
 ### *Aspiring Data Analyst | BCA Graduate | Certified by AlmaBetter*
-
-Mumbai, India  
-🔗 [LinkedIn](https://www.linkedin.com/in/avinashjen) | [Portfolio](https://your-portfolio.com)
-
+🚀 Fuel your dashboards with real insights — Explore data analytics projects powered by Python, SQL & Excel!
 ---
 
 ## 🎓 Education
