@@ -37,7 +37,7 @@
 1. **🏪 Supermarket Sales Analysis (SQL)**  
    → Cleaned, joined, and analyzed tables using advanced SQL queries  
    → Delivered KPIs like top-selling categories & customer behavior  
-   🔗 [View Repo](https://github.com/YOUR_USERNAME/supermarket-sql-analysis)
+   🔗 [View Repo](https://github.com/Avinashjen/-Supermarket-Sales-Analysis-SQL-)
 
 2. **🍽 Zomato EDA (Python + Pandas)**  
    → Analyzed restaurants, cuisines, and locations for business insights  
